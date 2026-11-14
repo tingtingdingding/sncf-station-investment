@@ -3,7 +3,8 @@
 Screening tool for SNCF Gares & Connexions' five-year station investment plan, built on SNCF open data.
 
 **Group project** · EDHEC Business School, Data Visualisation course · November 2026
-Team: Mahaut Lescure, Palig Narkizian, Cléa Vallanchon, Ting Xiao
+
+**Team:** Mahaut Lescure, Palig Narkizian, Cléa Vallanchon, Ting Xiao
 
 **My part:** the data cleaning (the SQL pipeline in this repo) and integrating the team's charts into the final Tableau dashboard (layout and colour system).
 
